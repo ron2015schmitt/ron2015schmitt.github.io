@@ -6,5 +6,5 @@ layout: home
 ---
 
 
-## Angular Event/Appointment Calendar
+* Angular Event/Appointment Calendar
 

@@ -21,16 +21,15 @@
 title: Ron Schmitt
 email: Ron.Schmitt@me.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Software Developer
+  Software developer
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://ron2015schmitt.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ron2015schmitt
 
 # Build settings
 theme: minima
 plugins:
   - jekyll
-  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
