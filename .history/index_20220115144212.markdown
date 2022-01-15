@@ -5,8 +5,7 @@
 layout: home
 ---
 
-# Sample software projects
-## Angular Event/Appointment Calendar 
+# Angular Event/Appointment Calendar 
 
 ![ngx-mat-tui-calendar](https://user-images.githubusercontent.com/11559541/141514000-da6e6c8a-e00b-4f27-a8c2-b7f28538b2f0.png)
 
@@ -35,13 +34,13 @@ This project is an [Angular](https://angular.io/), [Material Design](https://mat
 
 *docker image*: [![githublogo](/images/docker.png){: width="24" } ngx-mat-tui-calendar-demo](https://hub.docker.com/r/electron2015/ngx-mat-tui-calendar-demo)
 
-## C++ Numerical Library
+# C++ Numerical Library
 
 [Mathématiques](https://github.com/ron2015schmitt/Mathematiques) is numerical library for performing linear algebra, calculus, vector calculus, etc in C++ via simple MATLAB-like syntax while also providing run-time performance and memory usage of hand-coded C or Fortran.
 
 Mathématiques distinguishes itself from other libraries by an elegance and versatility that are only possible using the features of C++11,14, and 17.
 
-## 3D Plasma Surfaces 
+# 3D Plasma Surfaces 
 
 These videos were created using matlab.  The surfaces themselves were calculated by tracing magnetic field lines, written in C++.
 
