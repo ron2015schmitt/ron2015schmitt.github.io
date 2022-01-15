@@ -5,6 +5,7 @@
 layout: home
 header_pages:
   - about.md
+  - portfolio.md
   
 minima:
   social_links:

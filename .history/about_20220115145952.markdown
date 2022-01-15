@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a software developer with extensive experience.  This site provides a few samples of my work.
+I am a software developer with extensive experience.  This site provides some samples of my work.
 
 I created this site using [Jekyll](https://jekyllrb.com/), which follows the [Jamstack architecture](https://jamstack.org/), and the [minima](https://github.com/jekyll/minima) theme.
 

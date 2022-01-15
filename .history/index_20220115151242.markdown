@@ -5,10 +5,7 @@
 layout: home
 header_pages:
   - about.md
-  
-minima:
-  social_links:
-    github: ron2015schmitt
+  - portfolio.md
 ---
 
 # Sample software projects
