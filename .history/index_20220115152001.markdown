@@ -4,14 +4,14 @@
 
 layout: home
 header_pages:
-  - about.markdown
+  - about.md
   
 minima:
   social_links:
     github: ron2015schmitt
 ---
-# Software projects
 
+### Sample software projects
 ## Angular Event/Appointment Calendar 
 
 ![ngx-mat-tui-calendar](https://user-images.githubusercontent.com/11559541/141514000-da6e6c8a-e00b-4f27-a8c2-b7f28538b2f0.png)

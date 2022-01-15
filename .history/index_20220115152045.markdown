@@ -4,7 +4,7 @@
 
 layout: home
 header_pages:
-  - about.markdown
+  - about.md
   
 minima:
   social_links:
