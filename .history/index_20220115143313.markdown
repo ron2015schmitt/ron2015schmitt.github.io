@@ -47,5 +47,5 @@ These videos were created using matlab.  The surfaces themselves were calculated
 
 ![3dplasma](/images/3d-plasma.JPG){: width="100" } [Plasma surface animation](https://vimeo.com/manage/videos/350391433)
 
-![3dplasma-flythorugh](/images/3d-plasma-fly-through.JPG){: width="100" } [Fly-through of plasma with superconducting coils](https://vimeo.com/manage/videos/350860074)
+![3dplasma-flythorugh](/images/3d-plasma.JPG){: width="100" } [Fly-through of plasma with superconducting coils](https://vimeo.com/manage/videos/350860074)
 
