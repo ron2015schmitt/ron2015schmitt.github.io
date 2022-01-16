@@ -1,0 +1,10 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
+
+I am a software developer with extensive experience.  This site provides a few samples of my work.
+
+I created this site using ![Jekyll](/images/jekyll.png)[Jekyll](https://jekyllrb.com/), which follows the [Jamstack architecture](https://jamstack.org/), and the [minima](https://github.com/jekyll/minima) theme.
+

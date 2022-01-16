@@ -10,7 +10,7 @@ minima:
 ---
 
 
-Hello and welcome to my site.  I am a software developer with broad experience, who likes clean code.  This site highlights some of my personal and independent projects, as well as my skill set.
+Hello and welcome to my site.  I am a software developer with broad experience, who likes clean code.  This site highlights some of my personal and independent projects, as well as my skillset.
 
 {% assign sorted_pages = site.pages | sort:"order" %}
 {% for page in sorted_pages %}

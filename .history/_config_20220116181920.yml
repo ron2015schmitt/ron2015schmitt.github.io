@@ -27,10 +27,7 @@ url: "http://ron2015schmitt.github.io" # the base hostname & protocol for your s
 github_username:  ron2015schmitt
 
 header_pages:
-  - index.markdown
-  - projects.markdown
-  - courses.markdown
-  - about.markdown
+  - about.md
 
 # Build settings
 theme: minima

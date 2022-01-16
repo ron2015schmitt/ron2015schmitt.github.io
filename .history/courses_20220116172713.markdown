@@ -1,0 +1,9 @@
+---
+title: Skills & Coursework
+order: 3
+layout: page
+minima:
+  social_links:
+    github: ron2015schmitt
+
+---

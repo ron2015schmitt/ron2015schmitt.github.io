@@ -26,19 +26,13 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://ron2015schmitt.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ron2015schmitt
 
-header_pages:
-  - index.markdown
-  - projects.markdown
-  - courses.markdown
-  - about.markdown
-
 # Build settings
 theme: minima
 markdown: kramdown
 plugins:
   - jekyll
-# - jekyll-sitemap
-# - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.

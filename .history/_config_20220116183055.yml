@@ -29,7 +29,7 @@ github_username:  ron2015schmitt
 header_pages:
   - index.markdown
   - projects.markdown
-  - courses.markdown
+  - about.markdown
   - about.markdown
 
 # Build settings

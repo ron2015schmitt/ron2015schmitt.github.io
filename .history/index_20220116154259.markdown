@@ -1,0 +1,26 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+header_pages:
+  - about.markdown
+  - projects.markdown
+  - coursework.markdown
+  
+minima:
+  social_links:
+    github: ron2015schmitt
+---
+
+
+Welcome
+
+<!-- docs_list_title: Ron Schmitt
+docs:
+- title: Projects
+  url: projects.markdown
+
+- title: Skills & Coursework 
+  url: coursework.markdown -->
+
