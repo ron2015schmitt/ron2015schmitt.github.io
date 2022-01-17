@@ -33,4 +33,4 @@ https://www.hackerrank.com/RFSchmitt
 
 ## O'Reily Certificates
 
-Java I, II, III, IV
+Java

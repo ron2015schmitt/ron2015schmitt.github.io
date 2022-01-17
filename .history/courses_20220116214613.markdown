@@ -31,6 +31,3 @@ https://www.udemy.com/certificate/UC-UQ9XZ81L/
 
 https://www.hackerrank.com/RFSchmitt
 
-## O'Reily Certificates
-
-Java I, II, III, IV

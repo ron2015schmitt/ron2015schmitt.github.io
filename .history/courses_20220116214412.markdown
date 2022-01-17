@@ -7,9 +7,6 @@ minima:
     github: ron2015schmitt
 ---
 
-## Programming Certifications
-
-Java SE 8 Programmer I Certification
 
 ## Completed Udemy courses
 
@@ -31,6 +28,4 @@ https://www.udemy.com/certificate/UC-UQ9XZ81L/
 
 https://www.hackerrank.com/RFSchmitt
 
-## O'Reily Certificates
-
-Java I, II, III, IV
+## Completed HackerRank Badges

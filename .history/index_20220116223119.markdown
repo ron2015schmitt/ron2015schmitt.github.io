@@ -14,7 +14,7 @@ Hello and welcome to my site.  I am a software developer with broad experience, 
 
 {% assign sorted_pages = site.pages | sort:"order" %}
 {% for page in sorted_pages %}
-  {% if page.title and page.title != "Welcome" %}
+  {% if (page.title) and (page.title != "Welcome") %}
 * [{{ page.title }}]({{ page.url }}) 
   {% endif %}
 {% endfor %}

@@ -1,0 +1,24 @@
+---
+title: C++ Projects
+order: 2
+layout: page
+minima:
+  social_links:
+    github: ron2015schmitt
+---
+
+
+## C++ Numerical Library
+
+[Mathématiques](https://github.com/ron2015schmitt/Mathematiques) is numerical library for performing linear algebra, calculus, vector calculus, etc in C++ via simple MATLAB-like syntax while also providing run-time performance and memory usage of hand-coded C or Fortran.
+
+Mathématiques distinguishes itself from other libraries by an elegance and versatility that are only possible using the features of C++11,14, and 17.
+
+## 3D Plasma Surfaces 
+
+These videos were created using matlab.  The surfaces themselves were calculated by tracing magnetic field lines, written in C++.
+
+![3dplasma](/images/3d-plasma.JPG){: width="100" } [Plasma surface animation](https://vimeo.com/manage/videos/350391433)
+
+![3dplasma-flythorugh](/images/3d-plasma-fly-through.JPG){: width="100" } [Fly-through of plasma with superconducting coils](https://vimeo.com/manage/videos/350860074)
+
