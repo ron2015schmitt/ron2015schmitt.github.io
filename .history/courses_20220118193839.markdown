@@ -9,7 +9,7 @@ minima:
 
 ## Programming Certifications
 
-[![](/images/Java I SE8.bmp){: width="200" } Java SE 8 Programmer I Certification](https://www.credly.com/badges/05a7ef92-83a0-4441-9be0-0afde0e62ff0)
+Java SE 8 Programmer I Certification
 
 ## Completed Udemy courses
 

@@ -1,0 +1,44 @@
+---
+title: Skills & Coursework
+order: 3
+layout: page
+minima:
+  social_links:
+    github: ron2015schmitt
+---
+
+## Programming Certifications
+
+Java SE 8 Programmer I Certification
+
+## Completed Udemy courses
+
+[Cloud Computing](https://www.udemy.com/certificate/UC-d1cf42d6-675b-46af-8d67-9ca13ad9c5c9/)
+
+[The Complete Cloud Computing Course for Beginners](https://www.udemy.com/certificate/UC-109bcc21-d55c-4e1a-9464-f7cf2899d3dc/)
+
+[test](https://www.udemy.com/certificate/UC-887f8b61-5b6d-4f6e-9291-13a29d54d139/)
+
+[test](https://www.udemy.com/certificate/UC-BR25BQCZ/)
+
+[test](https://www.udemy.com/course/wsl-2-docker-and-windows-terminal/)
+
+[test](https://www.udemy.com/certificate/UC-0HNCZ86M/)
+
+[test](https://www.udemy.com/certificate/UC-P7259FG1/)
+
+[test](https://www.udemy.com/certificate/UC-UWLDAF27/)
+
+[test](https://www.udemy.com/certificate/UC-UQ9XZ81L/)
+
+## Completed HackerRank Badges
+
+![Java](/images/HackerRank-Java.JPG)
+
+![Ruby](/images/HackerRank-Ruby.JPG)
+
+https://www.hackerrank.com/RFSchmitt
+
+## O'Reily Certificates
+
+Java I, II, III, IV

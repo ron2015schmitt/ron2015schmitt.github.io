@@ -11,7 +11,19 @@ minima:
 
 I created this site using [![Jekyll](/images/jekyll.svg){: width="75" }](https://jekyllrb.com/), which follows the [![Jamstack](/images/jamstack.png){: width="100" }](https://jamstack.org/) architecture.  The Jekyll theme used is [minima](https://github.com/jekyll/minima).
 
+
+
 ## Angular Event/Appointment Calendar 
+
+![ngx-mat-tui-calendar](https://user-images.githubusercontent.com/11559541/141514000-da6e6c8a-e00b-4f27-a8c2-b7f28538b2f0.png)
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Development Status](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) 
+[![GitHub stars](https://img.shields.io/github/stars/ron2015schmitt/ngx-mat-tui-calendar.svg)](https://github.com/ron2015schmitt/ngx-mat-tui-calendar/stargazers)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/ron2015schmitt/ngx-mat-tui-calendar)
+
+[![npm](https://img.shields.io/npm/v/ngx-mat-tui-calendar?label=npm%20package)](https://www.npmjs.com/package/ngx-mat-tui-calendar)
+![npm downloads](https://img.shields.io/npm/dt/ngx-mat-tui-calendar?label=npm%20downloads)
 
 This project is an [Angular](https://angular.io/), [Material Design](https://material.angular.io/) wrapper for the [Toast UI Calendar](https://github.com/nhn/tui.calendar), published via [![npm-logo_1-tiny](https://user-images.githubusercontent.com/11559541/144652561-1593db94-2901-43db-aa9c-80616f4eab0f.png) 
 ](https://www.npmjs.com/package/ngx-mat-tui-calendar).
@@ -26,12 +38,12 @@ This project is an [Angular](https://angular.io/), [Material Design](https://mat
 *package*: [![npm-logo_1-tiny](https://user-images.githubusercontent.com/11559541/144652561-1593db94-2901-43db-aa9c-80616f4eab0f.png) ngx-mat-tui-calendar
 ](https://www.npmjs.com/package/ngx-mat-tui-calendar)
 
-*live demo*: [![netlifylogo](/images/Netlify-Logo.png){: width="32" } netlify](https://ngx-mat-tui-calendar-demo.netlify.app/)  <span style="color: indianred; font-weight: 900"> ↞ Click here to try out the calendar online! </span>
+*demo*: [![netlifylogo](/images/Netlify-Logo.png){: width="32" } netlify](https://ngx-mat-tui-calendar-demo.netlify.app/)
 
 *docker image*: [![githublogo](/images/docker.png){: width="24" } ngx-mat-tui-calendar-demo](https://hub.docker.com/r/electron2015/ngx-mat-tui-calendar-demo)
 
 
-## Timeshare and management website for MKTMC LLC
+## Timeshare and Management site for MKTMC LLC
 
 Stack:
 * Angular
@@ -39,14 +51,10 @@ Stack:
 * Express
 * MS SQL Server
 
-This website required secure authentication, authorization, and user account management.
-
-The front end required the creation of a event/appointment calendar.
-
 I used a layered approach such that the database access is fully decoupled from the Node routers and Express controllers.
 
 This is a closed-source and private website, but a demo is available, as shown below.  The demo uses MongoDb instead of SQL Server and demonstrates the functionality.
 
 *source*:  closed-source
 
-*live demo*: [![netlifylogo](/images/Netlify-Logo.png){: width="32" } netlify]()  <span style="color: indianred; font-weight: 900"> ↞ Click here to try out the online demo site! </span>
+*demo*: in progress...

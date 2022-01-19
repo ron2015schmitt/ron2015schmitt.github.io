@@ -31,7 +31,7 @@ This project is an [Angular](https://angular.io/), [Material Design](https://mat
 *docker image*: [![githublogo](/images/docker.png){: width="24" } ngx-mat-tui-calendar-demo](https://hub.docker.com/r/electron2015/ngx-mat-tui-calendar-demo)
 
 
-## Timeshare and management website for MKTMC LLC
+## Timeshare and Management site for MKTMC LLC
 
 Stack:
 * Angular

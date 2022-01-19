@@ -26,12 +26,12 @@ This project is an [Angular](https://angular.io/), [Material Design](https://mat
 *package*: [![npm-logo_1-tiny](https://user-images.githubusercontent.com/11559541/144652561-1593db94-2901-43db-aa9c-80616f4eab0f.png) ngx-mat-tui-calendar
 ](https://www.npmjs.com/package/ngx-mat-tui-calendar)
 
-*live demo*: [![netlifylogo](/images/Netlify-Logo.png){: width="32" } netlify](https://ngx-mat-tui-calendar-demo.netlify.app/)  <span style="color: indianred; font-weight: 900"> ↞ Click here to try out the calendar online! </span>
+*live demo*: [![netlifylogo](/images/Netlify-Logo.png){: width="32" } netlify](https://ngx-mat-tui-calendar-demo.netlify.app/)  <span style="color: #900C3F;"> ↞ Click here to try out the calendar online! </span>
 
 *docker image*: [![githublogo](/images/docker.png){: width="24" } ngx-mat-tui-calendar-demo](https://hub.docker.com/r/electron2015/ngx-mat-tui-calendar-demo)
 
 
-## Timeshare and management website for MKTMC LLC
+## Timeshare and Management site for MKTMC LLC
 
 Stack:
 * Angular
@@ -49,4 +49,4 @@ This is a closed-source and private website, but a demo is available, as shown b
 
 *source*:  closed-source
 
-*live demo*: [![netlifylogo](/images/Netlify-Logo.png){: width="32" } netlify]()  <span style="color: indianred; font-weight: 900"> ↞ Click here to try out the online demo site! </span>
+*demo*: in progress...
