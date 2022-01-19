@@ -8,40 +8,17 @@ minima:
 ---
 
 
-<h3 style="margin-bottom: 0; padding-bottom: 0;">Skills</h3>
----------
-<p style="margin-bottom: 20px;" />
-
-#### Languages
-
+<h2 style="margin-bottom: 0; padding-bottom: 0;">Languages</h2>
+---------<br>
 | JavaScript (ES2018) | C++ | Java | TypeScript | Python | Ruby | Fortran |
 
-#### Databases
+## Programming Certifications
+-------
 
-| SQL | MongoDb |
+[![](/images/Java I SE8.bmp){: width="200" } Java SE 8 Programmer I Certification](https://www.credly.com/badges/05a7ef92-83a0-4441-9be0-0afde0e62ff0)
 
-#### Front-End
-
-| Angular | Jekyll (JamStack) | Vanilla JS | Material Design |
-
-#### Back-end
-
-| Node+Express | 
-
-#### Virtualization
-
-| VirtualBox | VMware | WSL2 | Docker |
-
-
-<h3 style="margin-top: 50px; margin-bottom: 0; padding-bottom: 0;">Courses & Certifications</h3>
----------
-<p style="margin-bottom: 20px;" />
-
-#### Programming Certifications
-
-[![](/images/Java I SE8.bmp){: width="150" } Java SE 8 Programmer I Certification](https://www.credly.com/badges/05a7ef92-83a0-4441-9be0-0afde0e62ff0)
-
-#### Completed Udemy courses
+## Completed Udemy courses
+-------
 
 [Android Beginners Guide To Create A Weather Forecast App](https://www.udemy.com/certificate/UC-UWLDAF27/)
 
@@ -63,12 +40,19 @@ minima:
 
 [WSL 2, Docker, Kali Linux and Windows Terminal - get started](https://www.udemy.com/course/wsl-2-docker-and-windows-terminal/)
 
-#### Completed HackerRank Badges
+## Completed HackerRank Badges
+-------
 
-[![Java](/images/HackerRank-Java.JPG)](https://www.hackerrank.com/RFSchmitt) [![Ruby](/images/HackerRank-Ruby.JPG)](https://www.hackerrank.com/RFSchmitt)
+[![Java](/images/HackerRank-Java.JPG)](https://www.hackerrank.com/RFSchmitt)
+
+[![Ruby](/images/HackerRank-Ruby.JPG)](https://www.hackerrank.com/RFSchmitt)
 
 
-#### O'Reilly Media Certificates
+
+## O'Reilly Media Certificates
+-------
+
+Java I, II, III, IV Courses
 
 ![O'Reilly Java.JPG](/images/OReilly Java.JPG)
 

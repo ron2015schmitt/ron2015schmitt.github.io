@@ -70,5 +70,7 @@ minima:
 
 #### O'Reilly Media Certificates
 
+Java Programming 1-4
+
 ![O'Reilly Java.JPG](/images/OReilly Java.JPG)
 

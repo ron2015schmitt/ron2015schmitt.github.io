@@ -7,15 +7,12 @@ minima:
     github: ron2015schmitt
 ---
 
-<h3 style="margin-bottom: 0; padding-bottom: 0;">This Site</h3>
----------
-<br>
+## This Site
+
 I created this site using [![Jekyll](/images/jekyll.svg){: width="75" }](https://jekyllrb.com/), which follows the [![Jamstack](/images/jamstack.png){: width="100" }](https://jamstack.org/) architecture.  The Jekyll theme used is [minima](https://github.com/jekyll/minima).
 
+## Angular Event/Appointment Calendar 
 
-<h3 style="margin-top: 50px; margin-bottom: 0; padding-bottom: 0;">Angular Event/Appointment Calendar</h3>
----------
-<br>
 This project is an [Angular](https://angular.io/), [Material Design](https://material.angular.io/) wrapper for the [Toast UI Calendar](https://github.com/nhn/tui.calendar), published via [![npm-logo_1-tiny](https://user-images.githubusercontent.com/11559541/144652561-1593db94-2901-43db-aa9c-80616f4eab0f.png) 
 ](https://www.npmjs.com/package/ngx-mat-tui-calendar).
 
@@ -34,23 +31,24 @@ This project is an [Angular](https://angular.io/), [Material Design](https://mat
 *docker image*: [![githublogo](/images/docker.png){: width="24" } ngx-mat-tui-calendar-demo](https://hub.docker.com/r/electron2015/ngx-mat-tui-calendar-demo)
 
 
-<h3 style="margin-top: 50px; margin-bottom: 0; padding-bottom: 0;">Website for MKTMC LLC</h3>
----------
-<br>
-This is a timeshare and management website for MKTMC LLC.  Development required secure authentication, authorization, and user account management. The front end required the creation of a event/appointment calendar.
-
-I used a layered approach such that the database access is fully decoupled from the Express routers/controllers.
-
-This is a closed-source and private website, but a demo is available, as shown below.  
+## Timeshare and management website for MKTMC LLC
 
 Stack:
 * Angular
 * Node
 * Express
 * MS SQL Server
- 
+
+This website required secure authentication, authorization, and user account management.
+
+The front end required the creation of a event/appointment calendar.
+
+I used a layered approach such that the database access is fully decoupled from the Node routers and Express controllers.
+
+This is a closed-source and private website, but a demo is available, as shown below.  The demo uses MongoDb instead of SQL Server and demonstrates the functionality.
+
 *source*:  ![githublogo](/images/github.png){: width="24" } private repo / closed-source
 
-*live demo*: [![netlifylogo](/images/Netlify-Logo.png){: width="32" } netlify](https://angular-website-demo.netlify.app/)  <span style="color: indianred; font-weight: 900"> ↞ Click here to try out the online demo site! </span>
+*live demo*: [![netlifylogo](/images/Netlify-Logo.png){: width="32" } netlify]()  <span style="color: indianred; font-weight: 900"> ↞ Click here to try out the online demo site! </span>
 
 

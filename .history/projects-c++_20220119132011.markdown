@@ -7,7 +7,8 @@ minima:
     github: ron2015schmitt
 ---
 
-<h3 style="margin-bottom: 0; padding-bottom: 0;">C++ Numerical Library</h3>
+## C++ Numerical Library
+<h2 style="margin-bottom: 0; padding-bottom: 0;">Completed Udemy courses</h2>
 ---------
 <br>
 
@@ -17,7 +18,8 @@ Mathématiques distinguishes itself from other libraries by an elegance and vers
 
 My goal is to add the rest of the fundamental features.  I am currently looking for funding.
 
-<h3 style="margin-top: 50px; margin-bottom: 0; padding-bottom: 0;">3D Plasma Surfaces</h3>
+## 3D Plasma Surfaces 
+<h2 style="margin-bottom: 0; padding-bottom: 0;">Completed Udemy courses</h2>
 ---------
 <br>
 These videos were created using matlab.  The surfaces themselves were calculated by tracing magnetic field lines, written in C++.

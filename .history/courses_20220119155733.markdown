@@ -19,18 +19,9 @@ minima:
 #### Databases
 
 | SQL | MongoDb |
-
 #### Front-End
 
-| Angular | Jekyll (JamStack) | Vanilla JS | Material Design |
-
-#### Back-end
-
-| Node+Express | 
-
-#### Virtualization
-
-| VirtualBox | VMware | WSL2 | Docker |
+| SQL | JamStack: Jekyll  |
 
 
 <h3 style="margin-top: 50px; margin-bottom: 0; padding-bottom: 0;">Courses & Certifications</h3>
@@ -65,10 +56,14 @@ minima:
 
 #### Completed HackerRank Badges
 
-[![Java](/images/HackerRank-Java.JPG)](https://www.hackerrank.com/RFSchmitt) [![Ruby](/images/HackerRank-Ruby.JPG)](https://www.hackerrank.com/RFSchmitt)
+[![Java](/images/HackerRank-Java.JPG)](https://www.hackerrank.com/RFSchmitt)
+
+[![Ruby](/images/HackerRank-Ruby.JPG)](https://www.hackerrank.com/RFSchmitt)
 
 
 #### O'Reilly Media Certificates
+
+Java I, II, III, IV Courses
 
 ![O'Reilly Java.JPG](/images/OReilly Java.JPG)
 

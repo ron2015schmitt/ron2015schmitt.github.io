@@ -34,7 +34,7 @@ This project is an [Angular](https://angular.io/), [Material Design](https://mat
 *docker image*: [![githublogo](/images/docker.png){: width="24" } ngx-mat-tui-calendar-demo](https://hub.docker.com/r/electron2015/ngx-mat-tui-calendar-demo)
 
 
-<h3 style="margin-top: 50px; margin-bottom: 0; padding-bottom: 0;">Website for MKTMC LLC</h3>
+<h3 style="margin-bottom: 0; padding-bottom: 0;">Website for MKTMC LLC</h3>
 ---------
 <br>
 This is a timeshare and management website for MKTMC LLC.  Development required secure authentication, authorization, and user account management. The front end required the creation of a event/appointment calendar.

@@ -70,5 +70,7 @@ minima:
 
 #### O'Reilly Media Certificates
 
+Java I, II, III, IV Courses
+
 ![O'Reilly Java.JPG](/images/OReilly Java.JPG)
 
