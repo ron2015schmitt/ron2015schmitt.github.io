@@ -51,6 +51,6 @@ Stack:
  
 *source*:  ![githublogo](/images/github.png){: width="24" } private repo / closed-source
 
-*live demo*: [![netlifylogo](/images/heroku-logo-vector.svg){: width="16" } Heroku](https://ron2015schmitt-angular-website.herokuapp.com/)  <span style="color: indianred; font-weight: 900"> ↞ Click here to try out the online demo site! </span>
+*live demo*: [![netlifylogo](/images/heroku-logo-vector.svg){: width="32" } netlify](https://ron2015schmitt-angular-website.herokuapp.com/)  <span style="color: indianred; font-weight: 900"> ↞ Click here to try out the online demo site! </span>
 
 
