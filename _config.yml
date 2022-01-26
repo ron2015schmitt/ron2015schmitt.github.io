@@ -30,7 +30,7 @@ header_pages:
   - index.markdown
   - projects-web.markdown
   - projects-c++.markdown
-  - courses.markdown
+  - skills.markdown
   - about.markdown
 
 # Build settings

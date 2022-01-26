@@ -1,0 +1,86 @@
+---
+title: Skills
+order: 3
+layout: page
+minima:
+  social_links:
+    github: ron2015schmitt
+---
+
+
+<h3 style="margin-bottom: 0; padding-bottom: 0;">Skills</h3>
+---------
+<p style="margin-bottom: 20px;" />
+
+#### Languages
+
+| JavaScript (ES2018) | C++ | Java | TypeScript | Python | Ruby | Fortran |
+
+#### Numerical
+
+| Matlab | Mathematica |
+
+#### Databases
+
+| SQL | MongoDB |
+
+#### Front-End
+
+| Angular | Jekyll (JamStack) | Vanilla JS | Material Design |
+
+#### Back-end
+
+| Node+Express | 
+
+#### Operating Systems
+
+| Windows | Linux: Ubuntu, MintOS |
+
+#### Virtualization
+
+| VirtualBox | VMware | WSL2 | Docker |
+
+#### Cloud Hosting
+
+| Netlify | Heroku |
+
+<h3 style="margin-top: 50px; margin-bottom: 0; padding-bottom: 0;">Courses & Certifications</h3>
+---------
+<p style="margin-bottom: 20px;" />
+
+<h4 style="margin-top: 20px">Programming Certifications</h4>
+
+[![](/images/Java I SE8.bmp){: width="150" } Java SE 8 Programmer I Certification](https://www.credly.com/badges/05a7ef92-83a0-4441-9be0-0afde0e62ff0)
+
+<h4 style="margin-top: 24px">Completed Udemy courses</h4>
+
+
+[Android Beginners Guide To Create A Weather Forecast App](https://www.udemy.com/certificate/UC-UWLDAF27/)
+
+[Angular & NodeJS - The MEAN Stack Guide](https://www.udemy.com/certificate/UC-319a3e6c-d598-478a-8d6d-f45d4b299470/)
+
+[Cloud Computing](https://www.udemy.com/certificate/UC-d1cf42d6-675b-46af-8d67-9ca13ad9c5c9/)
+
+[Cloud Computing: Boot-camp](https://www.udemy.com/certificate/UC-887f8b61-5b6d-4f6e-9291-13a29d54d139/)
+
+[Git & GitHub with Eclipse, Android studio & IntelliJ](https://www.udemy.com/certificate/UC-P7259FG1/)
+
+[Introduction to Java EE](https://www.udemy.com/certificate/UC-UQ9XZ81L/)
+
+[The Agile Samurai Bootcamp](https://www.udemy.com/certificate/UC-0HNCZ86M/)
+
+[The Complete Cloud Computing Course for Beginners](https://www.udemy.com/certificate/UC-109bcc21-d55c-4e1a-9464-f7cf2899d3dc/)
+
+[The Python Bible™: Everything You Need to Program in Python](https://www.udemy.com/certificate/UC-BR25BQCZ/)
+
+[WSL 2, Docker, Kali Linux and Windows Terminal - get started](https://www.udemy.com/course/wsl-2-docker-and-windows-terminal/)
+
+<h4 style="margin-top: 24px">Completed HackerRank Badges</h4>
+
+[![Java](/images/HackerRank-Java.JPG)](https://www.hackerrank.com/RFSchmitt) [![Ruby](/images/HackerRank-Ruby.JPG)](https://www.hackerrank.com/RFSchmitt)
+
+
+<h4 style="margin-top: 24px">O'Reilly Media Certificates</h4>
+
+![O'Reilly Java.JPG](/images/OReilly Java.JPG)
+
