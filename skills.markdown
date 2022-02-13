@@ -16,10 +16,6 @@ minima:
 
 | JavaScript (ES2018) | C++ | Java | TypeScript | Python | Ruby | C | Fortran | Assembly |
 
-#### Numerical
-
-| Matlab | Mathematica |
-
 #### Databases
 
 | SQL | MongoDB |
@@ -32,6 +28,10 @@ minima:
 
 | Node+Express | 
 
+#### Numerical
+
+| Matlab | Mathematica |
+
 #### Operating Systems
 
 | Windows | Linux: Ubuntu |  Embedded Linux | Bare metal |
@@ -43,6 +43,11 @@ minima:
 #### Cloud Hosting
 
 | Netlify | Heroku |
+
+#### Other
+
+| git | VSCode | Eclipse | slack | bash | RegExp | make | Antlr | ninja |
+
 
 <h3 style="margin-top: 50px; margin-bottom: 0; padding-bottom: 0;">Recent Courses & Certifications</h3>
 ---------
