@@ -9,14 +9,19 @@ minima:
 
 <h3 style="margin-bottom: 0; padding-bottom: 0;">This Site</h3>
 ---------
-<br>
-I created this site using [![Jekyll](/images/jekyll.svg){: width="75" }](https://jekyllrb.com/), which follows the [![Jamstack](/images/jamstack.png){: width="100" }](https://jamstack.org/) architecture.  The Jekyll theme used is [minima](https://github.com/jekyll/minima).
 
 | *source* |  [![githublogo](/images/github.png){: width="24" } ron2015schmitt.github.io](https://github.com/ron2015schmitt/ron2015schmitt.github.io) |
 
+I created this site using [![Jekyll](/images/jekyll.svg){: width="75" }](https://jekyllrb.com/), which follows the [![Jamstack](/images/jamstack.png){: width="100" }](https://jamstack.org/) architecture.  The Jekyll theme used is [minima](https://github.com/jekyll/minima).
+
 <h3 style="margin-top: 50px; margin-bottom: 0; padding-bottom: 0;">Angular Event/Appointment Calendar</h3>
 ---------
-<br>
+
+| *source* |  [![githublogo](/images/github.png){: width="24" } ngx-mat-tui-calendar](https://github.com/ron2015schmitt/ngx-mat-tui-calendar) |
+| *package* | [![npm-logo_1-tiny](https://user-images.githubusercontent.com/11559541/144652561-1593db94-2901-43db-aa9c-80616f4eab0f.png) ngx-mat-tui-calendar](https://www.npmjs.com/package/ngx-mat-tui-calendar) |
+| *live demo* | [![netlifylogo](/images/Netlify-Logo.png){: width="32" } netlify](https://ngx-mat-tui-calendar-demo.netlify.app/) | <span style="color: indianred; font-weight: 900"> ↞ Try the online demo! </span>|
+| *docker image* | [![githublogo](/images/docker.png){: width="24" } ngx-mat-tui-calendar-demo](https://hub.docker.com/r/electron2015/ngx-mat-tui-calendar-demo)|
+
 This project is an [Angular](https://angular.io/), [Material Design](https://material.angular.io/) wrapper for the [Toast UI Calendar](https://github.com/nhn/tui.calendar), published via [![npm-logo_1-tiny](https://user-images.githubusercontent.com/11559541/144652561-1593db94-2901-43db-aa9c-80616f4eab0f.png) 
 ](https://www.npmjs.com/package/ngx-mat-tui-calendar).
 
@@ -25,15 +30,14 @@ This project is an [Angular](https://angular.io/), [Material Design](https://mat
 * Responsive to mobile devices
 * Dark mode in progress...
 
-| *source* |  [![githublogo](/images/github.png){: width="24" } ngx-mat-tui-calendar](https://github.com/ron2015schmitt/ngx-mat-tui-calendar) |
-| *package* | [![npm-logo_1-tiny](https://user-images.githubusercontent.com/11559541/144652561-1593db94-2901-43db-aa9c-80616f4eab0f.png) ngx-mat-tui-calendar](https://www.npmjs.com/package/ngx-mat-tui-calendar) |
-| *live demo* | [![netlifylogo](/images/Netlify-Logo.png){: width="32" } netlify](https://ngx-mat-tui-calendar-demo.netlify.app/) | <span style="color: indianred; font-weight: 900"> ↞ Click here to try out the calendar online! </span>|
-| *docker image* | [![githublogo](/images/docker.png){: width="24" } ngx-mat-tui-calendar-demo](https://hub.docker.com/r/electron2015/ngx-mat-tui-calendar-demo)|
-
 
 <h3 style="margin-top: 50px; margin-bottom: 0; padding-bottom: 0;">Website for MKTMC LLC</h3>
 ---------
-<br>
+
+|*source*|  ![githublogo](/images/github.png){: width="24" } private repo / closed-source |
+|*source based in part on*|  ![githublogo](/images/github.png){: width="24" } MEAN Udemy course source ([source](https://github.com/ron2015schmitt/project-mean), [course](https://www.udemy.com/certificate/UC-319a3e6c-d598-478a-8d6d-f45d4b299470/)) |
+|*live demo*| [![netlifylogo](/images/heroku-logo-vector.svg){: width="16" } Heroku](https://ron2015schmitt-angular-website.herokuapp.com/) | <span style="color: indianred; font-weight: 900"> ↞ Try the online demo! </span> |
+
 This is a timeshare and management website for MKTMC LLC.  Development required secure authentication, authorization, and user account management. The front end required the creation of a event/appointment calendar.
 
 I used a layered approach such that the database access is fully decoupled from the Express routers/controllers.
@@ -46,8 +50,5 @@ Stack:
 * Express
 * MS SQL Server or MongoDB
  
-|*source*|  ![githublogo](/images/github.png){: width="24" } private repo / closed-source |
-|*source based in part on*|  ![githublogo](/images/github.png){: width="24" } MEAN Udemy course source ([source](https://github.com/ron2015schmitt/project-mean), [course](https://www.udemy.com/certificate/UC-319a3e6c-d598-478a-8d6d-f45d4b299470/)) |
-|*live demo*| [![netlifylogo](/images/heroku-logo-vector.svg){: width="16" } Heroku](https://ron2015schmitt-angular-website.herokuapp.com/) | <span style="color: indianred; font-weight: 900"> ↞ Click here to try out the online demo site! </span> |
 
 

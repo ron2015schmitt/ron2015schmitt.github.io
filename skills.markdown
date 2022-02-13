@@ -34,7 +34,7 @@ minima:
 
 #### Operating Systems
 
-| Windows | Linux: Ubuntu, MintOS |  Embedded Linux | Bare metal |
+| Windows | Linux: Ubuntu |  Embedded Linux | Bare metal |
 
 #### Virtualization
 

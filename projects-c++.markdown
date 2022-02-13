@@ -11,11 +11,11 @@ minima:
 ---------
 <br>
 
-[Mathématiques](https://github.com/ron2015schmitt/Mathematiques) is numerical library for performing linear algebra, calculus, vector calculus, etc in C++ via simple MATLAB-like syntax while also providing run-time performance and memory usage of hand-coded C or Fortran.
+[Mathématiques](https://github.com/ron2015schmitt/Mathematiques) is a numerical library for performing linear algebra, calculus, vector calculus, etc in C++ via simple MATLAB-like syntax, while also providing run-time performance and memory usage of hand-coded C or Fortran.
 
 Mathématiques distinguishes itself from other libraries by an elegance and versatility that are only possible using the features of C++11,14, and 17.
 
-My goal is to add the rest of the fundamental features.  I am currently looking for funding.
+My goal is to add the remaining the fundamental features.  I am currently looking for funding.
 
 <h3 style="margin-top: 50px; margin-bottom: 0; padding-bottom: 0;">3D Plasma Surfaces</h3>
 ---------
