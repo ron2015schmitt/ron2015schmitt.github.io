@@ -22,7 +22,7 @@ minima:
 
 #### Front-End
 
-| Angular | Jekyll (JamStack) | Vanilla JS | Material Design |
+| Angular | Jekyll (JamStack) | Vanilla JS | Material Design | CSS | HTML |
 
 #### Back-end
 
@@ -46,7 +46,7 @@ minima:
 
 #### Other
 
-| git | VSCode | Eclipse | slack | bash | RegExp | make | Antlr | ninja |
+| git | VS Code | Eclipse | slack | bash | RegExp | make | Antlr | ninja | JSON | XML | Agile |
 
 
 <h3 style="margin-top: 50px; margin-bottom: 0; padding-bottom: 0;">Recent Courses & Certifications</h3>
