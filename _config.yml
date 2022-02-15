@@ -31,6 +31,7 @@ header_pages:
   - projects-web.markdown
   - projects-c++.markdown
   - skills.markdown
+  - resume.markdown
   - about.markdown
 
 # Build settings
