@@ -34,12 +34,15 @@ This project is an [Angular](https://angular.io/), [Material Design](https://mat
 * Dark mode in progress...
 
 
-<h3 style="margin-top: 50px; margin-bottom: 0; padding-bottom: 0;">Website for MKTMC LLC</h3>
+<h3 style="margin-top: 50px; margin-bottom: 0; padding-bottom: 0;">Website for MKTMC LLC (bluecasa.us)</h3>
 ---------
 
 |*source*|  ![githublogo](/images/github.png){: width="24" } private repo / closed-source |
 |*source based in part on*|  ![githublogo](/images/github.png){: width="24" } MEAN Udemy course source ([source](https://github.com/ron2015schmitt/project-mean), [course](https://www.udemy.com/certificate/UC-319a3e6c-d598-478a-8d6d-f45d4b299470/)) |
 |*live demo*| [![netlifylogo](/images/heroku-logo-vector.svg){: width="16" } Heroku](https://ron2015schmitt-angular-website.herokuapp.com/) | <span style="color: indianred; font-weight: 900"> ↞ Try the online demo! </span> |
+|*actual site*| [bluecasa.us](https://bluecasa.us/) | You will only be able to see the login screen |
+
+
 
 <br>
 This is a timeshare and management website for MKTMC LLC.  Development required secure authentication, authorization, and user account management. The front end required the creation of a event/appointment calendar.
@@ -52,7 +55,7 @@ Stack:
 * Angular
 * Node
 * Express
-* MS SQL Server or MongoDB
+* PostgreSQL or MS SQL Server or MongoDB
  
 
 
