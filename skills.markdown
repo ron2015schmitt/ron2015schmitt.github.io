@@ -42,7 +42,7 @@ minima:
 
 #### Cloud Hosting
 
-| Netlify | Heroku |
+| Heroku | Digital Ocean | Netlify | Cloudfare |
 
 #### Other
 
