@@ -78,7 +78,7 @@ minima:
 
 [Python for Programmers](https://www.udemy.com/certificate/UC-4097f223-8427-474d-a087-b3963072a2cd/)
 
-[Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)
+[Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/certificate/UC-848f007c-dfdf-404d-87a1-45813602e8f3/)
 
 [Tableau for Data Science with R and Python](https://www.udemy.com/certificate/UC-2e8537d9-6ed9-49e1-b06a-6ff1281c9a11/)
 

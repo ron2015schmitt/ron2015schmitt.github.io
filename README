@@ -2,3 +2,5 @@
 ```bash
 bundle exec jekyll build
 ```
+
+commit and push to github
