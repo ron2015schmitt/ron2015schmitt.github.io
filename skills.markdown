@@ -14,23 +14,23 @@ minima:
 
 #### Languages
 
-| JavaScript (ES2018) | C++ | Java | TypeScript | Python | Ruby | C | Fortran | Assembly |
+| Modern JavaScript | C++ | Java | TypeScript | Python | Ruby | C | Fortran | Assembly | Excel VBA |
 
 #### Databases
 
-| SQL | MongoDB |
+| SQL Server | MongoDB | PostgreSQL | 
 
 #### Front-End
 
-| Angular | Jekyll (JamStack) | Vanilla JS | Material Design | CSS | HTML |
+| React | Tailwind | Angular | Jekyll (JamStack) | Vanilla JS | Material Design | CSS | HTML |
 
 #### Back-end
 
-| Node+Express | 
+| Node | Express | 
 
-#### Numerical
+#### Mathematical Languages
 
-| Matlab | Mathematica |
+| Matlab | Mathematica | R |
 
 #### Operating Systems
 
@@ -38,15 +38,23 @@ minima:
 
 #### Virtualization
 
-| VirtualBox | VMware | WSL2 | Docker |
+| Docker| WSL2 | VirtualBox | VMware  |
 
 #### Cloud Hosting
 
-| Heroku | Digital Ocean | Netlify | Linode | Cloudfare |
+| AWS |  Netlify | Supabase| Heroku | Digital Ocean | Linode | Cloudflare  |
+
+#### Visualization
+
+| Tableau | 
+
+#### Data Science & Machine Learning
+
+| Jupyter Notebook / Lab | Anaconda |
 
 #### Other
 
-| git | VS Code | Eclipse | slack | bash | RegExp | make | Antlr | ninja | JSON | XML | Agile |
+| git | bash | RegExp | make| VS Code | Eclipse | slack  | Antlr | ninja | JSON | XML | Agile |
 
 
 <h3 style="margin-top: 50px; margin-bottom: 0; padding-bottom: 0;">Recent Courses & Certifications</h3>
@@ -87,6 +95,8 @@ minima:
 [The Complete Cloud Computing Course for Beginners](https://www.udemy.com/certificate/UC-109bcc21-d55c-4e1a-9464-f7cf2899d3dc/)
 
 [The Python Bible™: Everything You Need to Program in Python](https://www.udemy.com/certificate/UC-BR25BQCZ/)
+
+[Vite js bundler : Build fast modern WebappVite js bundler](https://www.udemy.com/certificate/UC-cd073fb8-8ba1-407f-a27b-e96c5b1ef79b/)
 
 [WSL 2, Docker, Kali Linux and Windows Terminal - get started](https://www.udemy.com/course/wsl-2-docker-and-windows-terminal/)
 

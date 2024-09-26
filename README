@@ -1,6 +1,23 @@
 
+
+1. Run locally
+
 ```bash
+bundle exec jekyll serve --watch –-livereload
+```
+
+2. commit to github
+```bash
+bundle exec jekyll clean
 bundle exec jekyll build
 ```
 
 commit and push to github
+
+
+[Force github to rebuild](https://federicoterzi.com/blog/how-to-force-github-pages-to-rebuild-jekyll-website/)
+
+
+```bash
+curl -u ron2015schmitt:token -X POST https://api.github.com/repos/ron2015schmitt/ron2015schmitt.github.io/pages/builds -H "Accept: application/vnd.github.mister-fantastic-preview+json"
+```
