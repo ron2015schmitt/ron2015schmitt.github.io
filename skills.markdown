@@ -18,19 +18,15 @@ minima:
 
 #### Databases
 
-| SQL Server | MongoDB | PostgreSQL | 
+ | PostgreSQL | MongoDB |  SQL Server |
 
 #### Front-End
 
-| React | Tailwind | Angular | Jekyll (JamStack) | Vanilla JS | Material Design | CSS | HTML |
+| React | Tailwind | Angular | Jekyll (JamStack) | Vanilla JS | Material Design | CSS | HTML | Sass | 
 
 #### Back-end
 
 | Node | Express | 
-
-#### Mathematical Languages
-
-| Matlab | Mathematica | R |
 
 #### Operating Systems
 
@@ -38,11 +34,11 @@ minima:
 
 #### Virtualization
 
-| Docker| WSL2 | VirtualBox | VMware  |
+| Docker | WSL2 | VirtualBox | VMware  |
 
 #### Cloud Hosting
 
-| AWS |  Netlify | Supabase| Heroku | Digital Ocean | Linode | Cloudflare  |
+| AWS |  Vercel | Netlify | Supabase | Heroku | Digital Ocean | Linode | Cloudflare  |
 
 #### Visualization
 
@@ -51,6 +47,10 @@ minima:
 #### Data Science & Machine Learning
 
 | Jupyter Notebook / Lab | Anaconda |
+
+#### Mathematical Languages
+
+| Matlab | Mathematica | R |
 
 #### Other
 
@@ -61,11 +61,9 @@ minima:
 ---------
 <p style="margin-bottom: 20px;" />
 
-<h4 style="margin-top: 20px">Programming Certifications</h4>
-
-[![](/images/Java I SE8.bmp){: width="150" } Java SE 8 Programmer I Certification](https://www.credly.com/badges/05a7ef92-83a0-4441-9be0-0afde0e62ff0)
 
 <h4 style="margin-top: 24px">Completed Udemy courses with Certifications</h4>
+
 
 
 [Android Beginners Guide To Create A Weather Forecast App](https://www.udemy.com/certificate/UC-UWLDAF27/)
@@ -94,11 +92,18 @@ minima:
 
 [The Complete Cloud Computing Course for Beginners](https://www.udemy.com/certificate/UC-109bcc21-d55c-4e1a-9464-f7cf2899d3dc/)
 
+[The most advanced and modern CSS course on the internet: master flexbox, CSS Grid, responsive design, and so much more](https://www.udemy.com/certificate/UC-b1cd8798-bdbf-4545-a2eb-8e1ee216ecfd/)
+
 [The Python Bible™: Everything You Need to Program in Python](https://www.udemy.com/certificate/UC-BR25BQCZ/)
 
 [Vite js bundler : Build fast modern WebappVite js bundler](https://www.udemy.com/certificate/UC-cd073fb8-8ba1-407f-a27b-e96c5b1ef79b/)
 
 [WSL 2, Docker, Kali Linux and Windows Terminal - get started](https://www.udemy.com/course/wsl-2-docker-and-windows-terminal/)
+
+
+<h4 style="margin-top: 20px">Programming Certifications</h4>
+
+[![](/images/Java I SE8.bmp){: width="150" } Java SE 8 Programmer I Certification](https://www.credly.com/badges/05a7ef92-83a0-4441-9be0-0afde0e62ff0)
 
 
 <h4 style="margin-top: 24px">Completed HackerRank Badges</h4>
