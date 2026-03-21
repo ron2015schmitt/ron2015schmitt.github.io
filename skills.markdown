@@ -7,42 +7,44 @@ minima:
     github: ron2015schmitt
 ---
 
-
 <h3 style="margin-bottom: 0; padding-bottom: 0;">Skills</h3>
 ---------
 <p style="margin-bottom: 20px;" />
 
 #### Languages
 
-| Modern JavaScript | C++ | Java | TypeScript | Python | Ruby | C | Fortran | Assembly | Excel VBA |
+| Modern JavaScript | C++ | Java | TypeScript | Python | Ruby | C | Fortran |
+Assembly | Excel VBA |
 
 #### Databases
 
- | PostgreSQL | MongoDB |  SQL Server |
+| PostgreSQL | MongoDB | SQL Server |
 
 #### Front-End
 
-| React | Tailwind | Angular | Jekyll (JamStack) | Vanilla JS | Material Design | CSS | HTML | Sass | 
+| React | Tailwind | Angular | Jekyll (JamStack) | Vanilla JS | Material Design
+| CSS | HTML | Sass |
 
 #### Back-end
 
-| Node | Express | 
+| Node | Express |
 
 #### Operating Systems
 
-| Windows | Linux: Ubuntu |  Embedded Linux | Bare metal |
+| Windows | Linux: Ubuntu | Embedded Linux | Bare metal |
 
 #### Virtualization
 
-| Docker | WSL2 | VirtualBox | VMware  |
+| Docker | WSL2 | VirtualBox | VMware |
 
 #### Cloud Hosting
 
-| AWS |  Vercel | Netlify | Supabase | Heroku | Digital Ocean | Linode | Cloudflare  |
+| AWS | Vercel | Netlify | Supabase | Heroku | Digital Ocean | Linode |
+Cloudflare |
 
 #### Visualization
 
-| Tableau | 
+| Tableau |
 
 #### Data Science & Machine Learning
 
@@ -54,17 +56,14 @@ minima:
 
 #### Other
 
-| git | bash | RegExp | make| VS Code | Eclipse | slack  | Antlr | ninja | JSON | XML | Agile |
-
+| git | bash | RegExp | make| VS Code | Eclipse | slack | Antlr | ninja | JSON |
+XML | Agile |
 
 <h3 style="margin-top: 50px; margin-bottom: 0; padding-bottom: 0;">Recent Courses & Certifications</h3>
 ---------
 <p style="margin-bottom: 20px;" />
 
-
 <h4 style="margin-top: 24px">Completed Udemy courses with Certifications</h4>
-
-
 
 [Android Beginners Guide To Create A Weather Forecast App](https://www.udemy.com/certificate/UC-UWLDAF27/)
 
@@ -81,6 +80,8 @@ minima:
 [Introduction to Java EE](https://www.udemy.com/certificate/UC-UQ9XZ81L/)
 
 [Jupyter Notebook for Data Science](https://www.udemy.com/certificate/UC-2700c756-f627-47ff-8e41-56b2b3f9ce5a/)
+
+[Learning Haskell Programming](https://www.udemy.com/certificate/UC-2b8cca10-4639-4b87-954a-d4eb4e5e84bb/)
 
 [Python for Programmers](https://www.udemy.com/certificate/UC-4097f223-8427-474d-a087-b3963072a2cd/)
 
@@ -100,18 +101,15 @@ minima:
 
 [WSL 2, Docker, Kali Linux and Windows Terminal - get started](https://www.udemy.com/course/wsl-2-docker-and-windows-terminal/)
 
-
 <h4 style="margin-top: 20px">Programming Certifications</h4>
 
 [![](/images/Java I SE8.bmp){: width="150" } Java SE 8 Programmer I Certification](https://www.credly.com/badges/05a7ef92-83a0-4441-9be0-0afde0e62ff0)
 
-
 <h4 style="margin-top: 24px">Completed HackerRank Badges</h4>
 
-[![Java](/images/HackerRank-Java.JPG)](https://www.hackerrank.com/RFSchmitt) [![Ruby](/images/HackerRank-Ruby.JPG)](https://www.hackerrank.com/RFSchmitt)
-
+[![Java](/images/HackerRank-Java.JPG)](https://www.hackerrank.com/RFSchmitt)
+[![Ruby](/images/HackerRank-Ruby.JPG)](https://www.hackerrank.com/RFSchmitt)
 
 <h4 style="margin-top: 24px">O'Reilly Media Certificates</h4>
 
 ![O'Reilly Java.JPG](/images/OReilly Java.JPG)
-
